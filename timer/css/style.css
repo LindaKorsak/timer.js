@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+header {
+  padding: 30px 30px 40px;
+  background-color: #0387bb;
+  color: white;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+header h1 {
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 38px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.dom-example {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 156px;
+  justify-content: center;
+}
+
+.counter {
+  text-align: center;
+  font-size: 42px;
+  line-height: 80px;
+  border: 1px solid #000;
+  height: 80px;
+  width: 155px;
+  margin-bottom: 20px;
+}
